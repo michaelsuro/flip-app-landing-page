@@ -20,7 +20,7 @@ enable_smart_app_banner                   : true                                
 
 # Information About Yourself
 your_name                                 : Michael Suro                               
-your_link                                 : www.michaelsuro.com                     
+your_link                                 : https://michaelsuro.com                     
 your_city                                 : Los Angeles                                
 email_address                             : hey@flipcardsapp.com
 # facebook_username                         :                                           
@@ -40,7 +40,7 @@ features                                  :
     
   - title                                 : Study Offline
     description                           : Flip works offline, so you can study 30,000 feet in the air and impress your seat mates. 
-    fontawesome_icon_name                 : signal-slash
+    fontawesome_icon_name                 : signal
 
   - title                                 : Share With Others
     description                           : Share your flashcards over email, messages, or AirDrop so your class only has to create the cards once.
@@ -55,7 +55,7 @@ features                                  :
     fontawesome_icon_name                 : star
 
   - title                                 : Create Engaging Flashcards
-    description                           : Flip gives you every formatting tool possible to create unforgettable flashcards.
+    description                           : Flip gives you a suite of formatting tools to create unforgettable flashcards.
     fontawesome_icon_name                 : pen
 
   - title                                 : Organized and Beautiful 
