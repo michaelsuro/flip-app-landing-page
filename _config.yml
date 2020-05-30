@@ -12,22 +12,22 @@ presskit_download_link                    : https://emilbaehr.com               
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Write a short tagline for your app.
+app_description                           : Flashcard maker & study tool.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
 
 
 # Information About Yourself
-your_name                                 : Emil Baehr                                
-your_link                                 : https://emilbaehr.com                     
-your_city                                 : Copenhagen                                
-email_address                             : emil.baehr@gmail.com
-facebook_username                         :                                           
-instagram_username                        : ebaehr
-twitter_username                          : ebaehr
-github_username                           : emilbaehr
-youtube_username                          :
+your_name                                 : Michael Suro                               
+your_link                                 : www.michaelsuro.com                     
+your_city                                 : Los Angeles                                
+email_address                             : hey@flipcardsapp.com
+# facebook_username                         :                                           
+# instagram_username                        : ebaehr
+# twitter_username                          : ebaehr
+# github_username                           : emilbaehr
+# youtube_username                          :
 
 
 
@@ -36,15 +36,15 @@ features                                  :
 
   - title                                 : Study Anywhere
     description                           : Take your flashcards on the go so you can kill downtime by sharpening your mind. 
-    fontawesome_icon_name                 : magic
+    fontawesome_icon_name                 : location-arrow
     
   - title                                 : Study Offline
     description                           : Flip works offline, so you can study 30,000 feet in the air and impress your seat mates. 
-    fontawesome_icon_name                 : mobile
+    fontawesome_icon_name                 : signal-slash
 
   - title                                 : Share With Others
     description                           : Share your flashcards over email, messages, or AirDrop so your class only has to create the cards once.
-    fontawesome_icon_name                 : play-circle
+    fontawesome_icon_name                 : share
 
   - title                                 : Sync Across Devices
     description                           : Flip keeps your flashcards automatically updated across all of your iOS devices.
@@ -56,19 +56,19 @@ features                                  :
 
   - title                                 : Create Engaging Flashcards
     description                           : Flip gives you every formatting tool possible to create unforgettable flashcards.
-    fontawesome_icon_name                 : arrow-alt-circle-down
+    fontawesome_icon_name                 : pen
 
   - title                                 : Organized and Beautiful 
     description                           : Your flashcards live in decks, and your decks live in color-coded Categories. E.g. Spanish, Biology, Vocabulary
-    fontawesome_icon_name                 : link
+    fontawesome_icon_name                 : folder
 
   - title                                 : Dark Mode
     description                           : Flip automatically matches your device’s light or dark mode preferences.
-    fontawesome_icon_name                 : adjust
+    fontawesome_icon_name                 : moon
 
   - title                                 : No Password Necessary
     description                           : Flip uses your iCloud account so you don’t have to remember a username and password.
-    fontawesome_icon_name                 : info-circle
+    fontawesome_icon_name                 : user-alt-slash
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
